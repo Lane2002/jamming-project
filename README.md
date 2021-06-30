@@ -1,4 +1,4 @@
-# jamming-project for searching for music React
+# jamming-project for searching for music (React)
 BUILDING FRONT-END APPLICATIONS WITH REACT
 Jammming
 In this project, you will build a React web application called Jammming. You will use your knowledge of React components, passing state, and requests with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
